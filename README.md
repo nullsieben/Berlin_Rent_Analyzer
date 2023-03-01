@@ -1,6 +1,9 @@
 # Berlin_Rent_Analyzer
 
-## Ahmet and Hanna's Final Ironhack Project:
+<3 Final Ironhack Project <3
+by Ahmet and Hanna
+
+## Objective:
 Analyzing the current housing market for rental apartments in Berlin.
 
 ## Dataset
