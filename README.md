@@ -10,11 +10,11 @@ Web scrapped information from https://www.immobilienscout24.de/
 01.03.2023: Kick-off, web scrapping    
 02.03.2023: Data cleaning  
 03.03.2023: EDA     
-06.03.2023: EDA, Data visualization  
+06.03.2023: EDA, data visualization  
 07.03.2023: Building model for predicting rent  
 08.03.2023: Building model for predicting rent  
-09.03.2023: Preparing Slides  
-10.03.2023: 7min Final Presentation (+5min Q&A)  
+09.03.2023: Preparing slides  
+10.03.2023: 7min presentation (+5min Q&A)  
 
 ## Credentials:
 Final Ironhack Project <3  
